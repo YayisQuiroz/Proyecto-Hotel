@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\controllers\\checkinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\controllers\\checkinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\controllers\\huespedescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\controllers\\huespedescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\models\\huespedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\models\\huespedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\models\\hotelapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\models\\hotelapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\models\\habitacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\models\\habitacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\models\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\models\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\controllers\\reporteseventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\controllers\\reporteseventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|c:\\users\\isra\\source\\repos\\hotelapi\\hotelapi\\models\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF4A67-67E9-6F83-C245-8DF81F500A55}|HotelAPI\\HotelAPI.csproj|solutionrelative:hotelapi\\models\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Huespedes.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Huespedes.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Models\\Huespedes.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Huespedes.cs",
+              "RelativeToolTip": "HotelAPI\\Models\\Huespedes.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA8wDIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:08:47.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckinsController.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\CheckinsController.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Controllers\\CheckinsController.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\CheckinsController.cs",
+              "RelativeToolTip": "HotelAPI\\Controllers\\CheckinsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:41:20.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HuespedesController.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\HuespedesController.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Controllers\\HuespedesController.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\HuespedesController.cs",
+              "RelativeToolTip": "HotelAPI\\Controllers\\HuespedesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:11:11.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\HotelApiContext.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Models\\HotelApiContext.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\HotelApiContext.cs",
+              "RelativeToolTip": "HotelAPI\\Models\\HotelApiContext.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswIkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:12:12.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "HotelAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwEYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:36:47.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "HotelAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAswG0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:32:46.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckoutsController.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\CheckoutsController.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Controllers\\CheckoutsController.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\CheckoutsController.cs",
+              "RelativeToolTip": "HotelAPI\\Controllers\\CheckoutsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:47:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Reserva.cs",
+              "RelativeToolTip": "HotelAPI\\Models\\Reserva.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:04:22.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "HotelAPI\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:05:33.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Habitacione.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Habitacione.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Models\\Habitacione.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Habitacione.cs",
+              "RelativeToolTip": "HotelAPI\\Models\\Habitacione.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:33:25.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Models\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "HotelAPI\\Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:06:33.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Pago.cs",
+              "RelativeToolTip": "HotelAPI\\Models\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:52:59.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Checkin.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Checkin.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Models\\Checkin.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Checkin.cs",
+              "RelativeToolTip": "HotelAPI\\Models\\Checkin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:12:27.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Checkout.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Models\\Checkout.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Checkout.cs",
+              "RelativeToolTip": "HotelAPI\\Models\\Checkout.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:45:43.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HabitacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\HabitacionesController.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Controllers\\HabitacionesController.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\HabitacionesController.cs",
+              "RelativeToolTip": "HotelAPI\\Controllers\\HabitacionesController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAswHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:35:06.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "HotelAPI\\Controllers\\ReportesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:41:20.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportesEventosController.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\ReportesEventosController.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Controllers\\ReportesEventosController.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\ReportesEventosController.cs",
+              "RelativeToolTip": "HotelAPI\\Controllers\\ReportesEventosController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T05:45:02.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\appsettings.json",
+              "RelativeToolTip": "HotelAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T00:09:00.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "HotelAPI\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:54:15.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Program.cs",
+              "RelativeToolTip": "HotelAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T23:28:23.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Auditoria.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Auditoria.cs",
+              "RelativeDocumentMoniker": "HotelAPI\\Models\\Auditoria.cs",
+              "ToolTip": "C:\\Users\\Isra\\source\\repos\\HotelAPI\\HotelAPI\\Models\\Auditoria.cs",
+              "RelativeToolTip": "HotelAPI\\Models\\Auditoria.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:24:55.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
